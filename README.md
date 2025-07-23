@@ -25,13 +25,7 @@
 - Engineered multi-region confederation for high availability  
 - Reduced control-plane overhead with full Route Reflector architecture  
 
----
 
-## 📄 Download My Resume
-
-[⬇️ Click here to download my resume (PDF)](https://github.com/DamaniOguynn/network-engineer-resume/raw/main/Damani_Oguynn_Network_Engineer_Resume.pdf)
-
----
 
 ## 🔗 Connect with Me
 
