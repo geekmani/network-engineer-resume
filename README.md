@@ -27,7 +27,7 @@
 
 
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me HERE IS MY LINKED IN ACCOUNT PROFILE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/damani-oguynn-106187289)
 
